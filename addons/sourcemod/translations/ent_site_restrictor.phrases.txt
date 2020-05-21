@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"Bombsite Disabled"
+	{
+		"#format"	"{1:s}"
+		"en"		"Bomb site {1} has been restricted, 5v5 required for unrestrict."
+		"hu"        "{1} Site letiltva kis játékosszám miatt, 5v5 szükséges a feloldáshoz."
+	}
+	"Bombsite Disabled Colored"
+    {
+        "#format"    "{1:s}"
+        "en"        "Bomb site {darkred}{1}{default} has been restricted, {darkred}5v5{default} required for unrestrict."
+        "hu"        "{darkred}{1}{default} Site letiltva kis játékosszám miatt, {darkred}5v5{default} szükséges a feloldáshoz."
+    }
+}
