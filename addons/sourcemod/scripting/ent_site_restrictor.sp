@@ -52,7 +52,7 @@ public void OnPluginStart()
 		SetFailState("This plugin is developed for CS:GO and CS:S");
 	}
 
-	LoadTranslations("immortar_pub.phrases");
+	LoadTranslations("ent_site_restrictor.phrases");
 	
 	HookEvent("round_start", Event_RoundStart);
 }
