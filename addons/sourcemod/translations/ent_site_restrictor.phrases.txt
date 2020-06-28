@@ -4,12 +4,14 @@
 	{
 		"#format"	"{1:s}"
 		"en"		"Bomb site {1} has been restricted, 5v5 required for unrestrict."
+		"ru"		"Плент {1} был закрыт, требуется 5 игроков за каждую команду для открытия плента."
 		"hu"        "{1} Site letiltva kis játékosszám miatt, 5v5 szükséges a feloldáshoz."
 	}
 	"Bombsite Disabled Colored"
     {
         "#format"    "{1:s}"
         "en"        "Bomb site {darkred}{1}{default} has been restricted, {darkred}5v5{default} required for unrestrict."
+        "ru"        "Плент {darkred}{1}{default} был закрыт, требуется {darkred}5 игроков за каждую команду{default} для открытия плента."
         "hu"        "{darkred}{1}{default} Site letiltva kis játékosszám miatt, {darkred}5v5{default} szükséges a feloldáshoz."
     }
 }
